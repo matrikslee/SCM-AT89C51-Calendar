@@ -1,0 +1,1 @@
+This is a canlendar project in SCM-AT89C51 using Keil C51.
